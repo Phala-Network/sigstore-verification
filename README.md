@@ -1,4 +1,4 @@
-# python-sigstore-test
+# sigstore-verification
 
 This project demonstrates how to set up a Python application for build provenance using Sigstore, specifically for Docker container images.
 
